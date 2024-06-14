@@ -1,0 +1,21 @@
+div p:first-child{
+    background-color: yellow;
+    color: red;
+    border: 5px solid rgb(165, 63, 167) ;
+}
+div p{
+    background-color: blue;
+    color: white;
+    border: 5px solid black;
+}
+*{
+    text-align: center;
+    padding: 10px;
+    
+    margin-top: 5px;
+    font-family: "Caveat", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+  
